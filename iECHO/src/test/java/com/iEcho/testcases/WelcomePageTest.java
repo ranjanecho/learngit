@@ -26,6 +26,7 @@ public class WelcomePageTest extends Base {
 		//Thread.sleep(3000);
 		
 		abc.clickOnContinue();
+		System.out.println("Test completed");
 	
 		Thread.sleep(3000);
 		
